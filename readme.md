@@ -1,0 +1,1 @@
+I've created a file in my labs folder called resume and ran npm init to create a  package.json file.  I've created 3 files called index.js, readme.md, info.json.  Followed the rest of the instruction to create a json object of a resume and uploaded to personal github repo.
